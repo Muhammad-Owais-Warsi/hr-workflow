@@ -1,0 +1,29 @@
+@import "tailwindcss";
+
+#root {
+  width: 100%;
+  height: 100vh;
+  margin: 0;
+}
+
+body {
+  margin: 0;
+  font-family: system-ui, -apple-system, sans-serif;
+  cursor: default;
+}
+
+.react-flow {
+  cursor: default !important;
+}
+
+.react-flow__pane {
+  cursor: default !important;
+}
+
+.react-flow__node {
+  cursor: default !important;
+}
+
+.react-flow__handle {
+  cursor: crosshair !important;
+}
