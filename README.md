@@ -2,6 +2,16 @@
 
 A visual workflow designer for HR processes built with React + React Flow. Design, test, and export internal workflows like onboarding, leave approval, and document verification.
 
+## Demo
+
+
+
+https://github.com/user-attachments/assets/f8aebc00-e192-411d-95a0-acf08e29ecb1
+
+
+
+
+
 ## Features
 
 - **Visual Canvas** - Drag and drop nodes to create workflows
